@@ -1,0 +1,18 @@
+.font-24 {
+    font-size: 24px;
+}
+
+#id-2 {
+    font-size: 36px;
+    color: blue;
+}
+
+#id-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.pink {
+    background-color: rgb(248, 186, 186);
+    font-family: Verdana, 'DejaVu Sans', sans-serif; 
+}
